@@ -1,0 +1,31 @@
+/*------------------------------------------------------------
+CSS Latihan Codeigniter 3 sederhana
+created by Yosep alfatah
+--------------------------------------------*/
+
+
+html,body{
+	margin: 0px;
+	font-family: Arial;
+	background-color: #eee;
+}
+#wrapper{
+	background-color: #fff;
+	padding: 10px;
+	margin: 0px auto;
+	width: 960px;
+}
+.header{
+   background-color: #ff6600;
+   padding: 10px;
+}
+.konten{
+	padding: 10px;
+}
+
+.footer{
+	padding: 10px;
+	background-color: #dddd;
+	text-align: center;
+	color: black;
+}
